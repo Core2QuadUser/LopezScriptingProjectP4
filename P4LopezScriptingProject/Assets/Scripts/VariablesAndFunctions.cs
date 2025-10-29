@@ -27,8 +27,10 @@ public class VariablesAndFunctions : MonoBehaviour
     {
         //create a local variable
         int result;
+
         //multiplying num by 2
         result = number * 2;
+
         //return the value
         return result;
     }
